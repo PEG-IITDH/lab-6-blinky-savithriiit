@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:ES LAB 1 DEMO,org.eclipse.launchbar.core.descriptorType.default\:lab 3,org.eclipse.launchbar.core.descriptorType.default\:led,org.eclipse.launchbar.core.descriptorType.default\:lab 3 2
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ES\ LAB\ 1\ DEMO/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:ES\ LAB\ 1\ DEMO/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
